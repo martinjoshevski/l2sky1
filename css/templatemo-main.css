@@ -196,6 +196,12 @@ a:hover { color: #FF0; }
   text-shadow: 2px 2px 5px rgb(0, 0, 0);
   color: rgb(255, 255, 255) !important;
 }
+.first-content h1 {
+  color: #fff !important;
+}
+.first-content span {
+  color: #fff !important;
+}
 
 .baner-content .primary-button {
   margin-top: 15px;
