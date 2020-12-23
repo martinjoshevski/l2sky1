@@ -175,16 +175,16 @@ a:hover { color: #FF0; }
   font-size: 128px;
   font-weight: 900;
   text-transform: uppercase;
-  text-shadow: 2px 2px 5px rgb(0, 0, 0);
+  text-shadow: 2px 2px 5px black;
   margin-bottom: 0px;
-  color: rgb(255, 255, 255) !important;
+  color: rgb(255, 255, 255);
 }
 
 .baner-content em {
   color: #ff7d27;
   font-weight: 900;
   font-style: normal;
-   text-shadow: 2px 2px 5px rgb(0, 0, 0);
+   text-shadow: 2px 2px 5px black;
 }
 
 
@@ -193,14 +193,8 @@ a:hover { color: #FF0; }
   margin-top: -20px;
   font-weight: 600;
   font-size: 48px;
-  text-shadow: 2px 2px 5px rgb(0, 0, 0);
-  color: rgb(255, 255, 255) !important;
-}
-.first-content h1 {
-  color: #fff !important;
-}
-.first-content span {
-  color: #fff !important;
+  text-shadow: 2px 2px 5px black;
+  color: rgb(255, 255, 255);
 }
 
 .baner-content .primary-button {
