@@ -537,6 +537,7 @@ footer em {
 
   .baner-content h1 {
     font-size: 64px;
+    color: rgba(250, 250, 250, 1) !important;
   }
 
   .baner-content em {
