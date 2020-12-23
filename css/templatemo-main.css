@@ -5,11 +5,8 @@ Vanilla Template
 https://templatemo.com/tm-526-vanilla
 
 */
-h1 {
-  color: #fff !important
-}
+
 p {
-  color: #fff;
   font-size: 16px;
   font-weight: 500;
   line-height: 25px;
@@ -167,19 +164,20 @@ a:hover { color: #FF0; }
 
 
 .baner-content {
+  color: #fff;
   padding-top: 30vh;
   text-align: center;
   background-image: url(../img/l21.jpg);
 }
 
 .baner-content h1 {
-  color: #fff;
   margin-top: 0px;
   font-size: 128px;
   font-weight: 900;
   text-transform: uppercase;
   text-shadow: 2px 2px 5px rgb(0, 0, 0);
   margin-bottom: 0px;
+  color: rgb(255, 255, 255);
 }
 
 .baner-content em {
@@ -191,12 +189,12 @@ a:hover { color: #FF0; }
 
 
 .baner-content span {
-  color: #fff;
   display: inline-block;
   margin-top: -20px;
   font-weight: 600;
   font-size: 48px;
   text-shadow: 2px 2px 5px rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 .baner-content .primary-button {
